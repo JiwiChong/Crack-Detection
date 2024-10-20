@@ -15,8 +15,8 @@ of images that contains parts that resemble crack but actually aren't crack.
 **_CFO_** [Paper](https://www.sciencedirect.com/science/article/pii/S0957417423009491)<br />
 **_MultiScaleNet_** [Paper](https://www.sciencedirect.com/science/article/pii/S0957417424005244)
 
-With MultiScaleNet, which learns by involving parallel channels and high pass kernels at early stage, 
-the crack detection Accuracy score was improved from **64%** to **84%**. 
+With MultiScaleNet, which learns by involving parallel channels and high pass kernels 
+at early stage, the crack detection Accuracy score was improved from **64%** to **84%**. 
 
 <img src="https://github.com/user-attachments/assets/89fd35ae-3aa8-4449-aa29-77de9ffa8deb" width=70% height=70%>
 
