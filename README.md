@@ -12,8 +12,8 @@ as "Crack" or "Non-Crack". The dataset involved in this work is SDNET2018, a lar
 images. The task with this dataset is highly challenging due to such imbalance as well  as the presence
 of images that contains parts that resemble crack but actually aren't crack.
 
-CFO [Paper](https://www.sciencedirect.com/science/article/pii/S0957417423009491)
-MultiScaleNet [Paper](https://www.sciencedirect.com/science/article/pii/S0957417424005244)
+**_CFO_** [Paper](https://www.sciencedirect.com/science/article/pii/S0957417423009491)<br />
+**_MultiScaleNet_** [Paper](https://www.sciencedirect.com/science/article/pii/S0957417424005244)
 
 With MultiScaleNet, which learns by involving parallel channels and high pass kernels at early stage, 
 the crack detection Accuracy score was improved from *64% to *84%. 
