@@ -16,7 +16,7 @@ of images that contains parts that resemble crack but actually aren't crack.
 **_MultiScaleNet_** [Paper](https://www.sciencedirect.com/science/article/pii/S0957417424005244)
 
 With MultiScaleNet, which learns by involving parallel channels and high pass kernels at early stage, 
-the crack detection Accuracy score was improved from *64% to *84%. 
+the crack detection Accuracy score was improved from **64%** to **84%**. 
 
 MultiScaleNet was then applied for a Transfer Learning process to be finetuned for a new task, which is
 the image classification of Metal images, whether they have damage or no damage. If they have damage,
