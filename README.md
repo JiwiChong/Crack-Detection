@@ -25,3 +25,10 @@ at early stage, the crack detection Accuracy score was improved from **64%** to 
 MultiScaleNet was then applied for a Transfer Learning process to be finetuned for a new task, which is
 the image classification of Metal images, whether they have damage or no damage. If they have damage,
 they would be classified based on the type of damage. 
+
+### Commands
+**_Train_** <br />
+python main_dev.py --run_num (# of run) --model_name (Name of the Model) --epochs (# of epochs to train) --rgb (Whether image is in RGB or not) <br />
+
+**_Evaluation_** <br />
+python eval.py --run_num (# of run) --model_name (Name of the Model) --data (Name of the data) --image_form (Whether image is in RGB or not) --num_workers (# of CPU workers to train) <br />
