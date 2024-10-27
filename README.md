@@ -28,7 +28,11 @@ they would be classified based on the type of damage.
 
 ### Commands
 **_Train_** <br />
+```python
 python main_dev.py --run_num (# of run) --model_name (Name of the Model) --epochs (# of epochs to train) --rgb (Whether image is in RGB or not) <br />
+```
 
 **_Evaluation_** <br />
+```python
 python eval.py --run_num (# of run) --model_name (Name of the Model) --data (Name of the data) --image_form (Whether image is in RGB or not) --num_workers (# of CPU workers to train) <br />
+```
